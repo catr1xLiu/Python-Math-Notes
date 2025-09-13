@@ -9,7 +9,7 @@ console = Console()
 component_types = ["LEC", "TUT", "LAB"]
 
 class Component:
-    def __init__(self, number:int, section:int, componentType:str, start
+    def __init__(self, number:int, section:int, componentType:str, 
 
 class Course:
     def __init__(self, code:str, name:str, status:str, units:float, grading:str, )
